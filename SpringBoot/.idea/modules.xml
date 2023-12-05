@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MyBootstrap.iml" filepath="$PROJECT_DIR$/.idea/MyBootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-02-config/spring-boot-02-config.iml" filepath="$PROJECT_DIR$/spring-boot-02-config/spring-boot-02-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-03-logging/spring-boot-03-logging.iml" filepath="$PROJECT_DIR$/spring-boot-03-logging/spring-boot-03-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-08-starter/spring-boot-08-starter.iml" filepath="$PROJECT_DIR$/spring-boot-08-starter/spring-boot-08-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-10-starter/spring-boot-10-starter.iml" filepath="$PROJECT_DIR$/spring-boot-10-starter/spring-boot-10-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-config-02/spring-boot-config-02.iml" filepath="$PROJECT_DIR$/spring-boot-config-02/spring-boot-config-02.iml" />
     </modules>
   </component>
 </project>

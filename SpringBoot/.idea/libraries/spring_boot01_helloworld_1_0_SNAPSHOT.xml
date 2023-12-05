@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot01-helloworld-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-boot01-helloworld/target/spring-boot01-helloworld-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

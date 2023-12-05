@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wdjr-spring-boot-starter-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-boot-08-starter/wdjr-spring-boot-starter/target/wdjr-spring-boot-starter-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

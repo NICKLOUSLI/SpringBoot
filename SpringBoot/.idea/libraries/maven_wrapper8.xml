@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-wrapper8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-boot-10-starter/lxy-spring-boot-starter-autoconfigurer/.mvn/wrapper/maven-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

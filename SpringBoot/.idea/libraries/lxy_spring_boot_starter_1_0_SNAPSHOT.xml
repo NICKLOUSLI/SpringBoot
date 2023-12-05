@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lxy-spring-boot-starter-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-boot-10-starter/lxy-spring-boot-starter/target/lxy-spring-boot-starter-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
