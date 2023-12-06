@@ -21,6 +21,7 @@
     <file url="file://$PROJECT_DIR$/spring-boot-config-02/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-config-02/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot01-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot01-helloworld/src/main/java/com/wdjr/controller/ReadFileDemo.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources" charset="UTF-8" />
   </component>

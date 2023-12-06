@@ -10,7 +10,18 @@ import org.springframework.web.bind.annotation.RestController;
 @Controller*/
 @RestController
 public class HelloController {
-
+    /**
+     * 诈骗王
+     * 但是还有书籍2
+     * 宇宙
+     * 富豪在谷底求翻身
+     * 心智斗争
+     * 货币崛起
+     * 女人
+     * 解码比尔盖茨
+     * 绿色星球
+     * @return
+     */
     @RequestMapping("/hello")
     public  String  hello(){
         return "hello world";
